@@ -1,1 +1,1 @@
-# iot-smart-bin
+iot-smart-trash-project
